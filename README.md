@@ -50,3 +50,8 @@ activegames[playerID] = {
   'turn': 'the current turn'
 }
 ```
+
+Invite link: https://discord.com/oauth2/authorize?scope=bot&client_id=956668131110162472 (Official bot) <br/>
+![Screen Shot 2022-03-29 at 10 29 56 AM](https://user-images.githubusercontent.com/100868154/160671053-23b5de1c-4978-4cc7-91a2-234204b34436.png)<br/>
+![Screen Shot 2022-03-29 at 10 29 19 AM](https://user-images.githubusercontent.com/100868154/160671061-8eca1fff-abf9-4745-bbb2-8ffa19571165.png)<br/>
+![Screen Shot 2022-03-29 at 10 30 05 AM](https://user-images.githubusercontent.com/100868154/160671040-e6a83f49-4424-4693-b803-fdd32eaa185e.png)<br/>
