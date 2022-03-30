@@ -1,3 +1,4 @@
+impor os
 import random
 import discord
 from datetime import date
@@ -306,5 +307,5 @@ async def on_message(message):
 
 
 keepAlive()
-token = 'OTU2NjY4MTMxMTEwMTYyNDcy.YjzkoA.GL6Cu3_dMfu9d_9nnBp27x8OUsQ'
+token = os.environ['DISCORDBOTTOKEN']
 client.run(token)
