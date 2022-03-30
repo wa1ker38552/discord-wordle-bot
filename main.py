@@ -1,4 +1,4 @@
-impor os
+import os
 import random
 import discord
 from datetime import date
